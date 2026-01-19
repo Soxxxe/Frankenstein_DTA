@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    text-indent: 10px;
+}
+
+.row {
+    width: 100%;
+    margin-left: 0;
+}
+
+.col {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.marginAdd {
+    display: none;
+}
+
+.mirador-canvas-nav {
+    display: none !important;
+}
+
+.button {
+    border-color: rgb(125, 155, 162);
+    color: grey;
+    background-color: rgb(21, 55, 32);
+    text-align: center;
+}
+
+.circle{
+    float: right;
+    height: 10px;
+    width: 10px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(13, 32, 31);
+    text-align: center;
+    display: inline-block;
+}
+
+.supraAdd {
+    vertical-align: super;
+}
+
+.subAdd {
+    vertical-align: sub;
+}
